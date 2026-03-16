@@ -109,6 +109,12 @@ font-size: 1.3rem;
 }
 
 
-footer span {
+footer {
+   margin-top: 40px;
+  padding: 20px 0;
+  text-align: center;
+}
+
+footer a {
   text-decoration: none;
 }
